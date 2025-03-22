@@ -10,8 +10,7 @@ O projeto é uma demonstração de como a **análise espacial** e a **visualiza�
 
 - **Mapa Interativo:** Visualização dos funcionários em um mapa do Distrito Federal.
 - **Marcadores Personalizados:** Cada funcionário é representado por um marcador com informações detalhadas.
-- **Agrupamento de Marcadores:** Uso do plugin `MarkerCluster` para agrupar funcionários próximos.
-- **Integração com Dados Externos:** Leitura de dados de um arquivo CSV.
+- **Agrupamento de Marcadores:** Uso do plugin `MarkerCluster` é uma funcionalidade que irei implementar futuramente para agrupar funcionários próximos.
 
 ---
 
@@ -19,7 +18,6 @@ O projeto é uma demonstração de como a **análise espacial** e a **visualiza�
 
 - **Python:** Linguagem de programação principal.
 - **Folium:** Biblioteca para criação de mapas interativos.
-- **Pandas:** Manipulação e leitura de dados.
 - **Git e GitHub:** Versionamento e hospedagem do código.
   
 ## 📋 Como Usar
